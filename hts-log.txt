@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Sat, 17 Nov 2018 18:41:12 at http://isfap-sn.com/
+(winhttrack http://isfap-sn.com/ -O "http://isfap-sn.com/Isfap" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:41:15	Warning: 	Note: due to isfap-sn.com remote robots.txt rules, links beginning with these path will be forbidden: /administrator/, /bin/, /cache/, /cli/, /components/, /includes/, /installation/, /language/, /layouts/, /libraries/, /logs/, /modules/, /plugins/, /tmp/ (see in the options to disable this)
+18:41:40	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): isfap-sn.com/t3-assets/dev/templates.bt_medical.less.template.less.css
+18:45:53	Error: 	"Not Found" (404) at link isfap-sn.com/templates/bt_medical/images/bg-iconLink4.png (from isfap-sn.com/t3-assets/dev/templates.bt_medical.less.bt_style.less.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 44 seconds : 127 links scanned, 125 files written (4281913 bytes overall) [4331861 bytes received at 15253 bytes/sec]
+(1 errors, 2 warnings, 0 messages)

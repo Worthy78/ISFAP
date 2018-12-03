@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+isfap-sn.com	TRUE	/	FALSE	1999999999	8e172a43bea88e75560932913c84d824	uo1hgloo4qsg9k9top0t729g57
+

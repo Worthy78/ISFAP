@@ -19,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/FrontController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="153">
               <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="e#34#99#0#PHP" expanded="true" />
@@ -31,37 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/admin/filiere.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="6069">
               <caret line="357" column="61" selection-start-line="357" selection-start-column="61" selection-end-line="357" selection-end-column="61" />
-              <folding>
-                <element signature="e#5454#5522#0#HTML" expanded="true" />
-                <element signature="e#3950#3978#0#HTML" expanded="true" />
-                <element signature="e#4011#4033#0#HTML" expanded="true" />
-                <element signature="e#4118#4136#0#HTML" expanded="true" />
-                <element signature="e#4189#4210#0#HTML" expanded="true" />
-                <element signature="e#4233#4267#0#HTML" expanded="true" />
-                <element signature="e#4327#4361#0#HTML" expanded="true" />
-                <element signature="e#4421#4456#0#HTML" expanded="true" />
-                <element signature="e#4516#4551#0#HTML" expanded="true" />
-                <element signature="e#4611#4646#0#HTML" expanded="true" />
-                <element signature="e#4706#4741#0#HTML" expanded="true" />
-                <element signature="e#4801#4836#0#HTML" expanded="true" />
-                <element signature="e#4896#4931#0#HTML" expanded="true" />
-                <element signature="e#4991#5026#0#HTML" expanded="true" />
-                <element signature="e#5099#5134#0#HTML" expanded="true" />
-                <element signature="e#5621#5641#0#HTML" expanded="true" />
-                <element signature="e#5782#5802#0#HTML" expanded="true" />
-                <element signature="e#5900#5921#0#HTML" expanded="true" />
-                <element signature="e#6023#6044#0#HTML" expanded="true" />
-                <element signature="e#6148#6169#0#HTML" expanded="true" />
-                <element signature="e#6273#6294#0#HTML" expanded="true" />
-                <element signature="e#6405#6425#0#HTML" expanded="true" />
-                <element signature="e#6527#6546#0#HTML" expanded="true" />
-                <element signature="e#6648#6668#0#HTML" expanded="true" />
-                <element signature="e#17131#17151#0#HTML" expanded="true" />
-                <element signature="e#6772#6792#0#HTML" expanded="true" />
-                <element signature="e#22739#22761#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Form/FilieresType.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
+            <state relative-caret-position="442">
               <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
               <folding>
                 <element signature="e#28#54#0#PHP" expanded="true" />
@@ -90,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Form/SlidersType.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="58" />
             </state>
           </provider>
@@ -99,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/back/css/modals.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
+            <state relative-caret-position="4029">
               <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
             </state>
           </provider>
@@ -108,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/admin/slider.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="765">
               <caret line="45" column="40" selection-start-line="45" selection-end-line="46" />
             </state>
           </provider>
@@ -117,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Entity/Filieres.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1462">
+            <state relative-caret-position="204">
               <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
@@ -126,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/AdminController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
+            <state relative-caret-position="1547">
               <caret line="99" column="49" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="49" />
               <folding>
                 <element signature="e#34#60#0#PHP" expanded="true" />
@@ -138,13 +109,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/layout.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="2142">
               <caret line="126" column="76" selection-start-line="126" selection-start-column="76" selection-end-line="126" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -277,11 +251,13 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,57 +265,10 @@
               <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
               <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ISFAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ISFAP" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,17 +300,17 @@
       <updated>1543613814746</updated>
       <workItem from="1543613817632" duration="4252000" />
       <workItem from="1543674143394" duration="19648000" />
+      <workItem from="1543835401923" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23900000" />
+    <option name="totallyTimeSpent" value="24194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.24659607" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.24659607" />
       <window_info id="Favorites" order="2" sideWeight="0.50121653" side_tool="true" weight="0.24659607" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -394,7 +323,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -483,43 +412,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Migrations/Version20181201175315.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/var/cache/dev/ContainerBwxc8XN/getFilièresRepositoryService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#7#78#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Filieres.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1462">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/slider.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="45" column="40" selection-start-line="45" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/back/css/modals.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migrations/Version20181201175315.php" />
+    <entry file="file://$PROJECT_DIR$/var/cache/dev/ContainerBwxc8XN/getFilièresRepositoryService.php" />
     <entry file="file://$PROJECT_DIR$/src/Controller/FrontController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="153">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="e#34#99#0#PHP" expanded="true" />
@@ -527,33 +424,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layout.html.twig">
+    <entry file="file://$PROJECT_DIR$/templates/admin/filiere.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="126" column="76" selection-start-line="126" selection-start-column="76" selection-end-line="126" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Form/SlidersType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/AdminController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="99" column="49" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="49" />
-          <folding>
-            <element signature="e#34#60#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="6069">
+          <caret line="357" column="61" selection-start-line="357" selection-start-column="61" selection-end-line="357" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Form/FilieresType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
+        <state relative-caret-position="442">
           <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
           <folding>
             <element signature="e#28#54#0#PHP" expanded="true" />
@@ -561,39 +441,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/filiere.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/Form/SlidersType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="357" column="61" selection-start-line="357" selection-start-column="61" selection-end-line="357" selection-end-column="61" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/back/css/modals.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4029">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/slider.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="40" selection-start-line="45" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Filieres.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="99" column="49" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="49" />
           <folding>
-            <element signature="e#5454#5522#0#HTML" expanded="true" />
-            <element signature="e#3950#3978#0#HTML" expanded="true" />
-            <element signature="e#4011#4033#0#HTML" expanded="true" />
-            <element signature="e#4118#4136#0#HTML" expanded="true" />
-            <element signature="e#4189#4210#0#HTML" expanded="true" />
-            <element signature="e#4233#4267#0#HTML" expanded="true" />
-            <element signature="e#4327#4361#0#HTML" expanded="true" />
-            <element signature="e#4421#4456#0#HTML" expanded="true" />
-            <element signature="e#4516#4551#0#HTML" expanded="true" />
-            <element signature="e#4611#4646#0#HTML" expanded="true" />
-            <element signature="e#4706#4741#0#HTML" expanded="true" />
-            <element signature="e#4801#4836#0#HTML" expanded="true" />
-            <element signature="e#4896#4931#0#HTML" expanded="true" />
-            <element signature="e#4991#5026#0#HTML" expanded="true" />
-            <element signature="e#5099#5134#0#HTML" expanded="true" />
-            <element signature="e#5621#5641#0#HTML" expanded="true" />
-            <element signature="e#5782#5802#0#HTML" expanded="true" />
-            <element signature="e#5900#5921#0#HTML" expanded="true" />
-            <element signature="e#6023#6044#0#HTML" expanded="true" />
-            <element signature="e#6148#6169#0#HTML" expanded="true" />
-            <element signature="e#6273#6294#0#HTML" expanded="true" />
-            <element signature="e#6405#6425#0#HTML" expanded="true" />
-            <element signature="e#6527#6546#0#HTML" expanded="true" />
-            <element signature="e#6648#6668#0#HTML" expanded="true" />
-            <element signature="e#17131#17151#0#HTML" expanded="true" />
-            <element signature="e#6772#6792#0#HTML" expanded="true" />
-            <element signature="e#22739#22761#0#HTML" expanded="true" />
+            <element signature="e#34#60#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="126" column="76" selection-start-line="126" selection-start-column="76" selection-end-line="126" selection-end-column="76" />
         </state>
       </provider>
     </entry>
